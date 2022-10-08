@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mysite-ubdp.onrender.com/blog/</loc>
+    <lastmod>2022-10-08T20:28:53+05:30</lastmod>
+  </url><url>
+    <loc>https://mysite-ubdp.onrender.com/blog/2020/hugo-themes/</loc>
+    <lastmod>2022-10-08T20:28:53+05:30</lastmod>
+  </url><url>
     <loc>https://mysite-ubdp.onrender.com/</loc>
-    <lastmod>2022-10-08T18:46:00+05:30</lastmod>
+    <lastmod>2022-10-08T20:28:53+05:30</lastmod>
+  </url><url>
+    <loc>https://mysite-ubdp.onrender.com/blog/2020/java-spring-mvc/</loc>
+    <lastmod>2022-10-08T20:28:44+05:30</lastmod>
+  </url><url>
+    <loc>https://mysite-ubdp.onrender.com/blog/2020/fundamentals-design-principles/</loc>
+    <lastmod>2022-10-08T20:27:53+05:30</lastmod>
   </url><url>
     <loc>https://mysite-ubdp.onrender.com/posts/</loc>
     <lastmod>2022-10-08T18:46:00+05:30</lastmod>
