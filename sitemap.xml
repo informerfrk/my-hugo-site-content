@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://mysite-ubdp.onrender.com/</loc>
     <lastmod>2022-10-08T18:46:00+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://mysite-ubdp.onrender.com/posts/</loc>
     <lastmod>2022-10-08T18:46:00+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/swift-test/</loc>
+    <loc>https://mysite-ubdp.onrender.com/posts/swift-test/</loc>
     <lastmod>2022-10-08T18:46:00+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://mysite-ubdp.onrender.com/about/</loc>
     <lastmod>2022-10-08T18:32:09+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://mysite-ubdp.onrender.com/posts/my-first-post/</loc>
     <lastmod>2022-10-08T18:28:51+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mysite-ubdp.onrender.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mysite-ubdp.onrender.com/tags/</loc>
   </url>
 </urlset>
